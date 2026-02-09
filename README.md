@@ -169,8 +169,3 @@ This allows immediate testing without manual data entry.
 * Menu‑driven console applications
 * Clean separation of concerns (models, managers, reports)
 
----
-
-## Author
-
-Developed as part of an academic assignment for demonstrating Java programming concepts.
